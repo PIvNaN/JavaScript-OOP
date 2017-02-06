@@ -1,0 +1,1 @@
+<a href="https://github.com/TelerikAcademy/JavaScript-OOP/tree/master/Topics/02.%20Closures-and-Scope/homework">Click here</a> to see the tasks for solve.

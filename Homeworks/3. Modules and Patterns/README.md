@@ -1,0 +1,1 @@
+<a href="https://github.com/TelerikAcademy/JavaScript-OOP/tree/master/Topics/03.%20Modules-and-Patterns/homework">Click here</a> to see the tasks for solve.
