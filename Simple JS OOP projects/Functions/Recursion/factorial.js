@@ -6,7 +6,7 @@ function factorial(n) {
 }
 
 console.log(factorial(3));
-// 6 -> 1*2*3 
+// 6 -> 1*2*3
 
 console.log(factorial(4));
 // 24 -> 1*2*3*4

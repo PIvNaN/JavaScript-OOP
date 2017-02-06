@@ -7,7 +7,7 @@ function fibonacci(n) {
 }
 
 console.log(fibonacci(4));
-// 5 
+// 5
 
 console.log(fibonacci(5));
 // 8
