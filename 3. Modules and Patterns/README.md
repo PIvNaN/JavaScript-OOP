@@ -43,3 +43,4 @@
     * If there are less than 10, return them all
     * The final score that is used to calculate the top performing students is done as follows:
       * 75% of the exam result
+      * 25% the submitted homework (count of submitted homeworks / count of all homeworks) for the course
